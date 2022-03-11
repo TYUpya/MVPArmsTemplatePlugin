@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.tyupya.mvparmstemplateplugin
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
